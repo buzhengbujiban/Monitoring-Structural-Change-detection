@@ -50,6 +50,8 @@ The Monte Carlo simulations assess the method’s effectiveness by generating ti
 ## 🚀 Getting Started
 ### 1️⃣ Install Dependencies
 ```bash
+git clone https://github.com/buzhengbujiban/Monitoring-Structural-Change-detection.git
+cd Monitoring-Structural-Change-detection-master
 pip install -r requirements.txt
 cd ./src
 bash case00demo.sh  ## this will create the Empirical size , Empirical power and avg 1st hitting time results in the txt files
