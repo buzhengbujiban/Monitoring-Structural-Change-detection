@@ -1,0 +1,56 @@
+size test, countfail=138, m=100, q=2, a=2.795483482915183
+power test, countfail=233, m=100, q=2, a=2.795483482915183, hit/countfail=129.19742489270385
+without test, countfail=166, m=100, q=2, a=2.795483482915183
+size test, countfail=239, m=100, q=2, a=2.5002777108094048
+power test, countfail=356, m=100, q=2, a=2.5002777108094048, hit/countfail=132.15449438202248
+without test, countfail=254, m=100, q=2, a=2.5002777108094048
+size test, countfail=157, m=100, q=3, a=2.795483482915183
+power test, countfail=290, m=100, q=3, a=2.795483482915183, hit/countfail=154.44482758620688
+without test, countfail=196, m=100, q=3, a=2.795483482915183
+size test, countfail=277, m=100, q=3, a=2.5002777108094048
+power test, countfail=459, m=100, q=3, a=2.5002777108094048, hit/countfail=155.0
+without test, countfail=311, m=100, q=3, a=2.5002777108094048
+size test, countfail=194, m=100, q=6, a=2.795483482915183
+power test, countfail=333, m=100, q=6, a=2.795483482915183, hit/countfail=183.95195195195194
+without test, countfail=224, m=100, q=6, a=2.795483482915183
+size test, countfail=306, m=100, q=6, a=2.5002777108094048
+power test, countfail=518, m=100, q=6, a=2.5002777108094048, hit/countfail=183.56370656370657
+without test, countfail=354, m=100, q=6, a=2.5002777108094048
+size test, countfail=140, m=200, q=2, a=2.795483482915183
+power test, countfail=367, m=200, q=2, a=2.795483482915183, hit/countfail=269.81471389645776
+without test, countfail=150, m=200, q=2, a=2.795483482915183
+size test, countfail=214, m=200, q=2, a=2.5002777108094048
+power test, countfail=567, m=200, q=2, a=2.5002777108094048, hit/countfail=268.8888888888889
+without test, countfail=252, m=200, q=2, a=2.5002777108094048
+size test, countfail=182, m=200, q=3, a=2.795483482915183
+power test, countfail=434, m=200, q=3, a=2.795483482915183, hit/countfail=324.17972350230417
+without test, countfail=196, m=200, q=3, a=2.795483482915183
+size test, countfail=285, m=200, q=3, a=2.5002777108094048
+power test, countfail=646, m=200, q=3, a=2.5002777108094048, hit/countfail=321.50619195046437
+without test, countfail=320, m=200, q=3, a=2.5002777108094048
+size test, countfail=190, m=200, q=6, a=2.795483482915183
+power test, countfail=546, m=200, q=6, a=2.795483482915183, hit/countfail=425.45054945054943
+without test, countfail=213, m=200, q=6, a=2.795483482915183
+size test, countfail=318, m=200, q=6, a=2.5002777108094048
+power test, countfail=835, m=200, q=6, a=2.5002777108094048, hit/countfail=421.9844311377245
+without test, countfail=369, m=200, q=6, a=2.5002777108094048
+size test, countfail=156, m=400, q=2, a=2.795483482915183
+power test, countfail=581, m=400, q=2, a=2.795483482915183, hit/countfail=580.7194492254733
+without test, countfail=173, m=400, q=2, a=2.795483482915183
+size test, countfail=269, m=400, q=2, a=2.5002777108094048
+power test, countfail=833, m=400, q=2, a=2.5002777108094048, hit/countfail=568.3709483793517
+without test, countfail=278, m=400, q=2, a=2.5002777108094048
+size test, countfail=155, m=400, q=3, a=2.795483482915183
+power test, countfail=793, m=400, q=3, a=2.795483482915183, hit/countfail=692.1071878940731
+size test, countfail=5, m=400, q=3, a=2.5002777108094048
+size test, countfail=25, m=400, q=3, a=2.5002777108094048
+power test, countfail=195, m=400, q=3, a=2.5002777108094048, hit/countfail=0.0
+size test, countfail=0, m=400, q=3, a=2.5002777108094048
+size test, countfail=65, m=400, q=3, a=2.5002777108094048
+power test, countfail=1950012.7285, m=400, q=3, a=2.5002777108094048, hit/countfail=0.0
+size test, countfail=64, m=400, q=6, a=2.5002777108094048
+size test, countfail=52, m=400, q=3, a=2.5002777108094048
+power test, countfail=1950012.7284999997, m=400, q=3, a=2.5002777108094048, hit/countfail=0.0
+without test, countfail=60, m=400, q=3, a=2.5002777108094048
+without test, countfail=25, m=400, q=3, a=2.795483482915183
+power test, countfail=240000.8354, m=200, q=6, a=3.36821417521878, hit/countfail=0.0
