@@ -62,3 +62,4 @@ This method can be used in: ✅ Financial Market Risk Analysis 📉
 ✅ Economic Policy Assessment 📊
 ✅ Financial tail risks Structural Changes detection 🔄
 ✅ Algorithmic Trading Strategies 🚀
+
